@@ -1,0 +1,12 @@
+.\outputs\delay.o: User\bsp\delay.c
+.\outputs\delay.o: User\bsp\delay.h
+.\outputs\delay.o: .\Libraries\CMSIS\stm32f10x.h
+.\outputs\delay.o: .\Libraries\CMSIS\core_cm3.h
+.\outputs\delay.o: D:\Keil5\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\outputs\delay.o: .\Libraries\CMSIS\system_stm32f10x.h
+.\outputs\delay.o: .\User\stm32f10x_conf.h
+.\outputs\delay.o: .\Libraries\FWlib\inc\stm32f10x_gpio.h
+.\outputs\delay.o: .\Libraries\CMSIS\stm32f10x.h
+.\outputs\delay.o: .\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\outputs\delay.o: .\Libraries\FWlib\inc\stm32f10x_usart.h
+.\outputs\delay.o: .\Libraries\FWlib\inc\misc.h

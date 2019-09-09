@@ -1,0 +1,12 @@
+.\outputs\port.o: FreeRTOS_CORE\portable\RVDS\ARM_CM3\port.c
+.\outputs\port.o: .\FreeRTOS_CORE\include\FreeRTOS.h
+.\outputs\port.o: D:\Keil5\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\outputs\port.o: D:\Keil5\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\outputs\port.o: .\User\FreeRTOSConfig.h
+.\outputs\port.o: .\FreeRTOS_CORE\include\projdefs.h
+.\outputs\port.o: .\FreeRTOS_CORE\include\portable.h
+.\outputs\port.o: .\FreeRTOS_CORE\include\deprecated_definitions.h
+.\outputs\port.o: .\FreeRTOS_CORE\portable\RVDS\ARM_CM3\portmacro.h
+.\outputs\port.o: .\FreeRTOS_CORE\include\mpu_wrappers.h
+.\outputs\port.o: .\FreeRTOS_CORE\include\task.h
+.\outputs\port.o: .\FreeRTOS_CORE\include\list.h

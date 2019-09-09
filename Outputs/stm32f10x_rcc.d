@@ -1,0 +1,12 @@
+.\outputs\stm32f10x_rcc.o: Libraries\FWlib\src\stm32f10x_rcc.c
+.\outputs\stm32f10x_rcc.o: .\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\outputs\stm32f10x_rcc.o: .\Libraries\CMSIS\stm32f10x.h
+.\outputs\stm32f10x_rcc.o: .\Libraries\CMSIS\core_cm3.h
+.\outputs\stm32f10x_rcc.o: D:\Keil5\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\outputs\stm32f10x_rcc.o: .\Libraries\CMSIS\system_stm32f10x.h
+.\outputs\stm32f10x_rcc.o: .\User\stm32f10x_conf.h
+.\outputs\stm32f10x_rcc.o: .\Libraries\FWlib\inc\stm32f10x_gpio.h
+.\outputs\stm32f10x_rcc.o: .\Libraries\CMSIS\stm32f10x.h
+.\outputs\stm32f10x_rcc.o: .\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\outputs\stm32f10x_rcc.o: .\Libraries\FWlib\inc\stm32f10x_usart.h
+.\outputs\stm32f10x_rcc.o: .\Libraries\FWlib\inc\misc.h

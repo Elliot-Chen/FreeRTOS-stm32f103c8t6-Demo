@@ -1,0 +1,25 @@
+--cpu Cortex-M3
+".\outputs\startup_stm32f10x_md.o"
+".\outputs\core_cm3.o"
+".\outputs\system_stm32f10x.o"
+".\outputs\main.o"
+".\outputs\stm32f10x_it.o"
+".\outputs\misc.o"
+".\outputs\stm32f10x_gpio.o"
+".\outputs\stm32f10x_rcc.o"
+".\outputs\stm32f10x_usart.o"
+".\outputs\list.o"
+".\outputs\queue.o"
+".\outputs\tasks.o"
+".\outputs\croutine.o"
+".\outputs\event_groups.o"
+".\outputs\timers.o"
+".\outputs\port.o"
+".\outputs\heap_4.o"
+".\outputs\bsp_usart1.o"
+".\outputs\bsp_led.o"
+".\outputs\sys_delay.o"
+--library_type=microlib --strict --scatter ".\Outputs\FreeRTOS_demo.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\FreeRTOS_demo.map" -o .\Outputs\FreeRTOS_demo.axf

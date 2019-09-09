@@ -1,0 +1,14 @@
+.\outputs\croutine.o: FreeRTOS_CORE\croutine.c
+.\outputs\croutine.o: .\FreeRTOS_CORE\include\FreeRTOS.h
+.\outputs\croutine.o: D:\Keil5\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\outputs\croutine.o: D:\Keil5\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\outputs\croutine.o: .\User\FreeRTOSConfig.h
+.\outputs\croutine.o: .\FreeRTOS_CORE\include\projdefs.h
+.\outputs\croutine.o: .\FreeRTOS_CORE\include\portable.h
+.\outputs\croutine.o: .\FreeRTOS_CORE\include\deprecated_definitions.h
+.\outputs\croutine.o: .\FreeRTOS_CORE\portable\RVDS\ARM_CM3\portmacro.h
+.\outputs\croutine.o: .\FreeRTOS_CORE\include\mpu_wrappers.h
+.\outputs\croutine.o: .\FreeRTOS_CORE\include\task.h
+.\outputs\croutine.o: .\FreeRTOS_CORE\include\list.h
+.\outputs\croutine.o: .\FreeRTOS_CORE\include\croutine.h
+.\outputs\croutine.o: .\FreeRTOS_CORE\include\list.h
